@@ -1,0 +1,56 @@
+/* General */
+body {
+    background-image: url("cherry-blossom-.jpg");
+    background-size: cover;        /* Hace que la imagen cubra todo el fondo */
+    background-repeat: no-repeat;  /* Evita que la imagen se repita */
+    background-position: center;   /* Centra la imagen en la pantalla */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #7c3c3c;
+    color: #fff;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #85280c; /* naranja más intenso para los títulos */
+    margin-top: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    color: #582e05; /* naranja claro tirando a marrón dulce de leche para el contenido */
+    margin: 10px;
+    padding-left: 10px;
+}
+
+/* Estilo para las secciones */
+section {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid #81d4fa; /* Línea separadora suave */
+    background-color: #DE7C7D;
+    border-radius: 30px;
+    margin-top:20px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 1.1em;
+    color: #e9eaec;
+    margin: 20px 0;
+    font-weight: 800;
+}
+
+
